@@ -87,6 +87,246 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   /*-------------- Base Header - Footer styles --------------*/
+
+   header,
+   footer {
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      flex-flow: row wrap;
+   }
+
+   /* Header Styles */
+
+   header {
+
+   }
+
+   header .content-wrapper {
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      flex-flow: row wrap;
+
+   }
+
+   header figure {
+
+   }
+
+   .header-divider {
+
+   }
+
+   header nav {
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      flex-flow: row wrap;
+
+   }
+
+   /*-------------- Mobile Styles - Homepage --------------*/
+
+  /* Main */
+
+   .hero-area {
+
+   }
+
+   .hero-image {
+
+  }
+
+   main .content-wrapper {
+
+   }
+
+   .form-description {
+
+   }
+
+   .form {
+
+   }
+    
+   main h1 {
+     
+   }
+
+   main h2{
+
+   }
+
+   main h3 {
+
+   }
+
+   main p {
+     
+  }
+
+   aside {
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      flex-flow: row wrap;
+
+   }
+
+   .features {
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      flex-flow: row wrap;
+   }
+
+   .features-items {
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      flex-flow: row wrap;
+   }
+
+    .features-item-description {
+    
+  }
+
+    .fontawesome-icon p {
+
+   }
+
+   .features-item-description p {
+
+   }
+
+   .reviews {
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      flex-flow: row wrap;
+   }
+
+   /* about page */
+    /*about page - main */
+
+  .mission {
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      flex-flow: row wrap;
+  }
+
+  .mission-content {
+
+  }
+
+  .mission h2 {
+
+  }
+
+  .mission-content p {
+
+  }
+
+  .map {
+
+  }
+
+  figure {
+
+  }
+
+  /* about page - contact */
+
+  .contact-section {
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      flex-flow: row wrap;
+  }
+
+  .contact-section h2 {
+
+  }
+
+  address .contact-content {
+
+  }
+
+  .contact-content h4 {
+
+  }
+
+  .contact-content p{
+
+  }
+
+  /* FAQ page */
+
+  .faq {
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      flex-flow: row wrap;
+  }
+
+  .faq-content {
+    
+  }
+
+  .faq-content h4 {
+
+  }
+
+  .faq-content p{
+
+  }
+
+
+
+   /* Footer */
+
+   footer {
+
+   }
+
+   .footer-content {
+
+   }
+
+   .contact {
+
+   }
+
+   footer h4 {
+
+   }
+
+   footer p {
+
+   }
+
+   .social {
+
+   }
+
+   .social-icons {
+
+   }
+
+   /* Copyright */
+
+   .copyright {
+
+   }
+
+
+
+
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
